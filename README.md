@@ -1,11 +1,6 @@
-Here is your updated GitHub profile README without the Backbone.js section:
-
----
-
 <h1 align="center">Hi 👋, I'm Ananda Rimal</h1>
 <h3 align="center">A passionate AI/ML developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif"
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandarimal&label=Profile%20views&color=0e75b6&style=flat" alt="anandarimal" /> </p>
 
@@ -60,7 +55,3 @@ Here is your updated GitHub profile README without the Backbone.js section:
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandarimal" alt="GitHub Streak" />
 </p>
-
----
-
-This version removes the Backbone.js section while keeping the rest of your profile intact. Let me know if you need any further changes!
