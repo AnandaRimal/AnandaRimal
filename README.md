@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananda Rimal</h1>
-<h3 align="center">A passionate AI/ML Developer from Nepal | Enthusiast of Math, Stats, and Probability</h3>
+<h3 align="center">A passionate AI/ML Developer from Nepal | Enthusiast of Math</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandarimal&label=Profile%20views&color=0e75b6&style=flat" alt="anandarimal" /> </p>
 
@@ -48,7 +48,7 @@
   Python
 </p>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">I HAVE KNOWLEDGE ON:</h3>
 <p align="left">
   - **Math**
   - **Probability**
