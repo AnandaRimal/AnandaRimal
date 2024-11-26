@@ -50,9 +50,9 @@
 
 <h3 align="left">I HAVE KNOWLEDGE ON:</h3>
 <p align="left">
-  - **Math**
-  - **Probability**
-  - **Stats**
+  - Math
+  - Probability
+  - Stats
 </p>
 
 <h3 align="left">My GitHub Stats:</h3>
