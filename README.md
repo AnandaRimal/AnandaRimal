@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ananda Rimal</h1>
-<h3 align="center">A passionate AI/ML developer from Nepal</h3>
+<h3 align="center">A passionate AI/ML Developer from Nepal | Enthusiast of Math, Stats, and Probability</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandarimal&label=Profile%20views&color=0e75b6&style=flat" alt="anandarimal" /> </p>
 
-- 🌱 I’m currently learning **python, machine learning and stats**
-
+- 🌱 I’m currently learning **Python, Machine Learning, and Stats**.
+- 💡 I have a strong foundation in **Math**, which helps me with problem-solving and advanced statistical modeling.
 - 📫 How to reach me: **anandarimal94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -48,6 +48,17 @@
   Python
 </p>
 
+<h3 align="left">Skills in Math & Stats:</h3>
+<p align="left">
+  - Advanced Probability
+  - Descriptive and Inferential Statistics
+  - Linear Algebra
+  - Calculus
+  - Time Series Analysis
+  - Data Visualization
+</p>
+
+<h3 align="left">My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandarimal&show_icons=true&locale=en&layout=compact" alt="anandarimal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandarimal&show_icons=true&locale=en" alt="anandarimal" /></p>
