@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Python and Machine Learning.
 - 💡 I have a strong foundation in Math, which helps me with problem-solving and advanced statistical modeling.
-- 📫 How to reach me: anandarimal94@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
