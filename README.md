@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandarimal&label=Profile%20views&color=0e75b6&style=flat" alt="anandarimal" /> </p>
 
-- 🌱 I’m currently learning Python and Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
 - 💡 I have a strong foundation in Math, which helps me with problem-solving and advanced statistical modeling.
 
 <h3 align="left">Connect with me:</h3>
