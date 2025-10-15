@@ -12,7 +12,7 @@
 
 🔥 **AI & ML Engineer** and **Content Creator** passionate about learning and teaching  
 🌍 Based in **Nepal** 🇳🇵  
-🎓 **Computer Science** background with strong **Mathematics** foundation  
+🎓 **Computer Scienceand Engineering** background with strong **Mathematics** foundation  
 🚀 Learning **Generative AI**, **LLMs**, and **Advanced ML techniques**  
 💡 Building projects to solve real-world problems  
 📚 Creating educational content for developers and AI enthusiasts  
