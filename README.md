@@ -61,55 +61,6 @@ Advanced topics including:
 
 ---
 
-## 🎯 Content Focus Areas
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 📊 Statistics & Data Science
-Descriptive Statistics  
-Inferential Statistics  
-Hypothesis Testing  
-Data Visualization  
-Machine Learning  
-
-</td>
-<td align="center" width="25%">
-
-### 🤖 Generative AI & LLMs
-Large Language Models  
-Prompt Engineering  
-RAG Systems  
-AI Agents  
-Fine-tuning Models  
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Machine Learning
-Supervised Learning  
-Unsupervised Learning  
-Neural Networks  
-Model Deployment  
-MLOps  
-
-</td>
-<td align="center" width="25%">
-
-### 📐 Mathematics for AI/ML
-Linear Algebra  
-Calculus  
-Statistics & Probability  
-Discrete Mathematics  
-Mathematical Optimization  
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & Machine Learning
