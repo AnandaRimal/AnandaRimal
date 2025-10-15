@@ -50,11 +50,10 @@ A comprehensive guide covering:
 📹 [Watch the Technical Session](https://www.youtube.com/watch?v=rI7n-e1kLz8&t=2619s)
 
 Advanced topics including:
-- 💻 Software Development Best Practices
-- 🛠️ Modern Tech Stack
-- 🎓 Professional Skill Development
-- 🌐 Industry Insights
-
+🧠 Machine Learning Fundamentals
+🤖 Deep Learning & Neural Networks
+📊 Data Science & Analytics
+🎯 Career Guidance & Roadmap
 </td>
 </tr>
 </table>
@@ -77,7 +76,7 @@ Advanced topics including:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
 
 ### 🧠 Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -133,12 +132,6 @@ Advanced topics including:
 
 ### 🚀 AI Projects
 Building practical ML solutions
-
-</td>
-<td width="25%" align="center">
-
-### 📊 Stats Content
-Making statistics fun and accessible
 
 </td>
 <td width="25%" align="center">
