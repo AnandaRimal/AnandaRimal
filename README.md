@@ -85,7 +85,6 @@ Advanced topics including:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graph&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6366F1?style=for-the-badge&logo=llama&logoColor=white)
 
 ### 📐 Mathematics & Statistics
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-FF6B6B?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -98,7 +97,6 @@ Advanced topics including:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 💾 Databases & Tools
