@@ -45,15 +45,13 @@ A comprehensive guide covering:
 ### 🚀 SkillCrew Technology
 **Technical Collaboration**
 
-[![SkillCrew Technology](./assets/skill.png)](https://www.youtube.com/watch?v=rI7n-e1kLz8&t=2619s)
+[![SkillCrew Technology](./assets/skill.png)](https://youtu.be/dsTZ2MKzjrM?si=AKbdveYK_zgc5nXp)
 
-📹 [Watch the Technical Session](https://www.youtube.com/watch?v=rI7n-e1kLz8&t=2619s)
+📹 [Watch the Technical Session](https://youtu.be/dsTZ2MKzjrM?si=ICPUSOibgB7Z5D6k)
 
-Advanced topics including:
-🧠 Machine Learning Fundamentals
-🤖 Deep Learning & Neural Networks
-📊 Data Science & Analytics
-🎯 Career Guidance & Roadmap
+comprehensive guide for :
+-Git and Github from scratch
+-wokring on collaboration 
 </td>
 </tr>
 </table>
