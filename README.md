@@ -50,8 +50,8 @@ A comprehensive guide covering:
 📹 [Watch the Technical Session](https://youtu.be/dsTZ2MKzjrM?si=ICPUSOibgB7Z5D6k)
 
 comprehensive guide for :
--Git and Github from scratch
--wokring on collaboration 
+-Git and Github 
+
 </td>
 </tr>
 </table>
